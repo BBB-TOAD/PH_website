@@ -129,3 +129,22 @@ body {
     left: 0%;
   }
 }
+
+#about-container {
+  position: relative;
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+}
+
+#about-container p {
+  text-align: center;
+  background-color: rgb(255, 228, 251);
+  color: rgb(0, 0, 0);
+  position: absolute;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.25rem;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -30,7 +30,7 @@ var footer = `
             </div>
             <div class="container-top-info" id="info2">
                 <h3>Contacts Us</h3>
-                <p>Contact us through <a href="mailto:projecthello@gmail.com"> email </a>at projecthello@gmail.com
+                <p>Contact us through <a href="mailto:PH.project.hello@gmail.com"> email </a>at projecthello@gmail.com
                     </p>
             </div>
             <div class="container-top-info" id="info3"><h3>Participating Schools</h1>
@@ -54,7 +54,7 @@ var footer = `
                     </a>
                 </div>
                 <div class="social-media" id="email">
-                    <a href="mailto:projecthello@gmail.com">
+                    <a href="mailto:PH.project.hello@gmail.com">
                         <img src="../images/social/email.jpg">
                     </a>
                 </div>
