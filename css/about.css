@@ -139,7 +139,7 @@ body {
 
 #about-container p {
   text-align: center;
-  background-color: rgb(255, 228, 251);
+  background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   position: absolute;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -147,4 +147,59 @@ body {
   bottom: 0;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+#about-container h3 {
+  left: 50%;
+  top: 1%;
+  transform: translate(-50%, 0%);
+  position: absolute;
+  font-family: "roboto", sans-serif;
+  font-size: 3rem;
+}
+
+/* Process Container */
+
+#process-container {
+  height: 500px;
+  background-color: #b6bcc2;
+}
+
+#process-container-text {
+  height: 30%;
+}
+
+#process-container-text h3 {
+  text-align: center;
+  padding-top: 1%;
+  font-size: 3rem;
+  font-family: "roboto", sans-serif;
+}
+#process-container-text p {
+  padding: 0 17%;
+  padding-top: 1%;
+  font-size: 1.25rem;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#letter-img {
+  padding-top: 0%;
+  height: 60%;
+}
+
+.find-container {
+  height: 5%;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.25rem;
+}
+
+#letter-img img {
+  padding-top: 1%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  opacity: 0.75;
 }
