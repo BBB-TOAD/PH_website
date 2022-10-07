@@ -53,6 +53,7 @@ var footer = `
                         <img src="../images/social/instagram.jpg">
                     </a>
                 </div>
+  
                 <div class="social-media" id="email">
                     <a href="mailto:PH.project.hello@gmail.com">
                         <img src="../images/social/email.jpg">
