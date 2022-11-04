@@ -6,6 +6,10 @@
   display: block;
 }
 
+:root head {
+  display: none;
+}
+
 .navbar {
   background-color: #b6bcc2;
   /*border-bottom: 5px solid white;*/
