@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a static website](https://github.com/BBB-TOAD/PH_website)
 
-- 🌱 I’m currently learning **MERN, Node.js, React**
+- 🌱 I’m currently learning **MERN, Node.js, React, PHP, JavaScript, Python, Django**
 
 - 🤝 I’m looking for help with [MERN](https://github.com/BBB-TOAD/workapp)
 
