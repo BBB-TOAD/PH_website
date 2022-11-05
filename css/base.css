@@ -7,7 +7,7 @@
 }
 
 :root head {
-  display: none;
+  span: hidden;
 }
 
 .navbar {
