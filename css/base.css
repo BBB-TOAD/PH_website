@@ -7,7 +7,11 @@
 }
 
 head {
+<<<<<<< HEAD
   span: hidden;
+=======
+  display: none;
+>>>>>>> 36f81bc (modifications)
 }
 
 .navbar {
